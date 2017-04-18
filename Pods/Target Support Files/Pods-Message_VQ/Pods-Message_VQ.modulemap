@@ -1,0 +1,6 @@
+framework module Pods_Message_VQ {
+  umbrella header "Pods-Message_VQ-umbrella.h"
+
+  export *
+  module * { export * }
+}
